@@ -1,0 +1,37 @@
+version: '3'
+
+services:
+  gateway:
+    image: "registry.gitlab.com/zxtang/gateway:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/gateway_${ENV}.json:/go/bin/config.json:z"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/gateway/log:/var/log:z"
+    ports:
+      - "10443:8443"
+    environment:
+      - ENV
+
+  auth:
+    image: "registry.gitlab.com/zxtang/auth:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/auth_${ENV}.json:/go/bin/config.json:z"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/auth/log:/var/log:z"
+    environment:
+      - ENV
+
+  authdb:
+    image: "registry.gitlab.com/zxtang/db/auth:${ENV}"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/authdb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=authdb
+    ports:
+      - "15432:5432"

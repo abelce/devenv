@@ -1,0 +1,30 @@
+{
+    "sslChainCrtPath": "/go/bin/ssl/chain.crt",
+    "sslKeyPath": "/go/bin/ssl/varitrip.key",
+    "apis": [
+        {
+            "key": "users",
+            "scheme": "http",
+            "host": "127.0.0.1:3061",
+            "path": "/"
+        },
+        {
+            "key": "auth",
+            "scheme": "http",
+            "host": "127.0.0.1:3062",
+            "path": "/"
+        },
+        {
+            "key": "operators",
+            "scheme": "http",
+            "host": "127.0.0.1:3062",
+            "path": "/"
+        },
+        {
+            "key": "articles",
+            "scheme": "http",
+            "host": "127.0.0.1:9008",
+            "path": "/"
+        }
+    ]
+}
