@@ -1,0 +1,880 @@
+2019-09-04 04:01:42,621 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2019-09-04 04:01:42,621 INFO Included extra file "/etc/supervisor.d/app-consume.ini" during parsing
+2019-09-04 04:01:42,622 INFO Included extra file "/etc/supervisor.d/app-serve.ini" during parsing
+2019-09-04 04:01:42,662 INFO RPC interface 'supervisor' initialized
+2019-09-04 04:01:42,663 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2019-09-04 04:01:42,664 INFO RPC interface 'supervisor' initialized
+2019-09-04 04:01:42,665 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-04 04:01:42,665 INFO supervisord started with pid 1
+2019-09-04 04:01:43,673 INFO spawned: 'app-serve' with pid 8
+2019-09-04 04:01:43,684 INFO spawned: 'app-consume' with pid 9
+2019-09-04 04:01:43,737 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:01:43,748 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:01:44,754 INFO spawned: 'app-serve' with pid 20
+2019-09-04 04:01:44,760 INFO spawned: 'app-consume' with pid 21
+2019-09-04 04:01:44,775 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:01:44,798 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:01:46,808 INFO spawned: 'app-serve' with pid 32
+2019-09-04 04:01:46,816 INFO spawned: 'app-consume' with pid 33
+2019-09-04 04:01:46,830 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:01:46,856 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:01:49,867 INFO spawned: 'app-serve' with pid 44
+2019-09-04 04:01:49,873 INFO spawned: 'app-consume' with pid 45
+2019-09-04 04:01:49,883 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:01:49,896 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:01:53,909 INFO spawned: 'app-serve' with pid 55
+2019-09-04 04:01:53,918 INFO spawned: 'app-consume' with pid 61
+2019-09-04 04:01:53,932 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:01:53,944 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:01:58,958 INFO spawned: 'app-serve' with pid 67
+2019-09-04 04:01:58,963 INFO spawned: 'app-consume' with pid 68
+2019-09-04 04:01:58,972 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:01:58,997 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:02:05,019 INFO spawned: 'app-serve' with pid 79
+2019-09-04 04:02:05,029 INFO spawned: 'app-consume' with pid 85
+2019-09-04 04:02:05,040 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:02:05,048 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:02:13,042 INFO spawned: 'app-serve' with pid 90
+2019-09-04 04:02:13,059 INFO spawned: 'app-consume' with pid 97
+2019-09-04 04:02:13,061 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:02:13,076 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:02:21,102 INFO spawned: 'app-serve' with pid 103
+2019-09-04 04:02:21,113 INFO spawned: 'app-consume' with pid 109
+2019-09-04 04:02:21,116 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:02:21,131 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:02:30,166 INFO spawned: 'app-serve' with pid 115
+2019-09-04 04:02:30,177 INFO spawned: 'app-consume' with pid 120
+2019-09-04 04:02:30,184 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:02:30,199 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:02:40,205 INFO spawned: 'app-serve' with pid 127
+2019-09-04 04:02:40,216 INFO spawned: 'app-consume' with pid 128
+2019-09-04 04:02:40,232 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:02:40,233 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:02:51,288 INFO spawned: 'app-serve' with pid 138
+2019-09-04 04:02:51,303 INFO spawned: 'app-consume' with pid 144
+2019-09-04 04:02:51,305 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:02:51,317 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:03:03,361 INFO spawned: 'app-serve' with pid 150
+2019-09-04 04:03:03,368 INFO spawned: 'app-consume' with pid 151
+2019-09-04 04:03:03,387 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:03:03,388 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:03:16,402 INFO spawned: 'app-serve' with pid 163
+2019-09-04 04:03:16,419 INFO spawned: 'app-consume' with pid 169
+2019-09-04 04:03:16,422 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:03:16,436 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:03:30,493 INFO spawned: 'app-serve' with pid 175
+2019-09-04 04:03:30,503 INFO spawned: 'app-consume' with pid 176
+2019-09-04 04:03:30,517 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:03:30,523 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:03:45,531 INFO spawned: 'app-serve' with pid 186
+2019-09-04 04:03:45,548 INFO spawned: 'app-consume' with pid 192
+2019-09-04 04:03:45,551 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:03:45,564 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:04:01,627 INFO spawned: 'app-serve' with pid 198
+2019-09-04 04:04:01,632 INFO spawned: 'app-consume' with pid 199
+2019-09-04 04:04:01,646 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:04:01,667 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:04:18,702 INFO spawned: 'app-serve' with pid 210
+2019-09-04 04:04:18,721 INFO spawned: 'app-consume' with pid 216
+2019-09-04 04:04:18,730 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:04:18,736 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:04:36,791 INFO spawned: 'app-serve' with pid 222
+2019-09-04 04:04:36,804 INFO spawned: 'app-consume' with pid 228
+2019-09-04 04:04:36,810 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:04:36,822 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:04:55,852 INFO spawned: 'app-serve' with pid 234
+2019-09-04 04:04:55,862 INFO spawned: 'app-consume' with pid 240
+2019-09-04 04:04:55,867 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:04:55,878 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:05:15,915 INFO spawned: 'app-serve' with pid 246
+2019-09-04 04:05:15,933 INFO spawned: 'app-consume' with pid 252
+2019-09-04 04:05:15,937 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:05:15,951 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:05:37,010 INFO spawned: 'app-serve' with pid 258
+2019-09-04 04:05:37,022 INFO spawned: 'app-consume' with pid 260
+2019-09-04 04:05:37,039 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:05:37,048 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:05:59,090 INFO spawned: 'app-serve' with pid 270
+2019-09-04 04:05:59,106 INFO spawned: 'app-consume' with pid 276
+2019-09-04 04:05:59,113 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:05:59,125 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:06:22,167 INFO spawned: 'app-serve' with pid 282
+2019-09-04 04:06:22,182 INFO spawned: 'app-consume' with pid 288
+2019-09-04 04:06:22,184 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:06:22,198 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:06:46,265 INFO spawned: 'app-serve' with pid 294
+2019-09-04 04:06:46,278 INFO spawned: 'app-consume' with pid 295
+2019-09-04 04:06:46,293 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:06:46,295 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:07:11,355 INFO spawned: 'app-serve' with pid 306
+2019-09-04 04:07:11,363 INFO spawned: 'app-consume' with pid 307
+2019-09-04 04:07:11,382 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:07:11,387 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:07:37,478 INFO spawned: 'app-serve' with pid 318
+2019-09-04 04:07:37,491 INFO spawned: 'app-consume' with pid 323
+2019-09-04 04:07:37,493 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:07:37,506 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:08:04,565 INFO spawned: 'app-serve' with pid 330
+2019-09-04 04:08:04,586 INFO spawned: 'app-consume' with pid 336
+2019-09-04 04:08:04,592 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:08:04,600 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:08:32,654 INFO spawned: 'app-serve' with pid 342
+2019-09-04 04:08:32,668 INFO spawned: 'app-consume' with pid 348
+2019-09-04 04:08:32,671 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:08:32,683 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:09:01,726 INFO spawned: 'app-serve' with pid 354
+2019-09-04 04:09:01,732 INFO spawned: 'app-consume' with pid 355
+2019-09-04 04:09:01,748 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:09:01,753 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:09:31,812 INFO spawned: 'app-serve' with pid 366
+2019-09-04 04:09:31,822 INFO spawned: 'app-consume' with pid 372
+2019-09-04 04:09:31,828 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:09:31,843 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:10:02,897 INFO spawned: 'app-serve' with pid 378
+2019-09-04 04:10:02,918 INFO spawned: 'app-consume' with pid 384
+2019-09-04 04:10:02,926 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:10:02,941 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:10:34,989 INFO spawned: 'app-serve' with pid 390
+2019-09-04 04:10:34,996 INFO spawned: 'app-consume' with pid 391
+2019-09-04 04:10:35,023 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:10:35,024 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:11:08,096 INFO spawned: 'app-serve' with pid 402
+2019-09-04 04:11:08,105 INFO spawned: 'app-consume' with pid 403
+2019-09-04 04:11:08,122 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:11:08,136 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:11:42,165 INFO spawned: 'app-serve' with pid 412
+2019-09-04 04:11:42,183 INFO spawned: 'app-consume' with pid 418
+2019-09-04 04:11:42,185 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:11:42,198 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:12:17,256 INFO spawned: 'app-serve' with pid 424
+2019-09-04 04:12:17,263 INFO spawned: 'app-consume' with pid 425
+2019-09-04 04:12:17,276 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:12:17,289 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:12:52,143 WARN received SIGTERM indicating exit request
+2019-09-04 04:12:52,144 INFO waiting for app-serve to die
+2019-09-04 04:13:13,342 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2019-09-04 04:13:13,345 INFO Included extra file "/etc/supervisor.d/app-consume.ini" during parsing
+2019-09-04 04:13:13,347 INFO Included extra file "/etc/supervisor.d/app-serve.ini" during parsing
+2019-09-04 04:13:13,357 INFO RPC interface 'supervisor' initialized
+2019-09-04 04:13:13,358 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2019-09-04 04:13:13,359 INFO RPC interface 'supervisor' initialized
+2019-09-04 04:13:13,360 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-04 04:13:13,361 INFO supervisord started with pid 1
+2019-09-04 04:13:14,367 INFO spawned: 'app-serve' with pid 8
+2019-09-04 04:13:14,373 INFO spawned: 'app-consume' with pid 9
+2019-09-04 04:13:14,383 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:13:14,400 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:13:15,409 INFO spawned: 'app-serve' with pid 20
+2019-09-04 04:13:15,416 INFO spawned: 'app-consume' with pid 21
+2019-09-04 04:13:15,432 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:13:15,432 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:13:17,442 INFO spawned: 'app-serve' with pid 31
+2019-09-04 04:13:17,447 INFO spawned: 'app-consume' with pid 32
+2019-09-04 04:13:17,457 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:13:17,470 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:13:20,484 INFO spawned: 'app-serve' with pid 43
+2019-09-04 04:13:20,489 INFO spawned: 'app-consume' with pid 44
+2019-09-04 04:13:20,498 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:13:20,508 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:13:24,527 INFO spawned: 'app-serve' with pid 54
+2019-09-04 04:13:24,537 INFO spawned: 'app-consume' with pid 60
+2019-09-04 04:13:24,544 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:13:24,551 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:13:29,572 INFO spawned: 'app-serve' with pid 66
+2019-09-04 04:13:29,579 INFO spawned: 'app-consume' with pid 67
+2019-09-04 04:13:29,594 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:13:29,595 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:13:35,615 INFO spawned: 'app-serve' with pid 78
+2019-09-04 04:13:35,622 INFO spawned: 'app-consume' with pid 79
+2019-09-04 04:13:35,631 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:13:35,642 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:13:43,635 INFO spawned: 'app-serve' with pid 90
+2019-09-04 04:13:43,645 INFO spawned: 'app-consume' with pid 96
+2019-09-04 04:13:43,652 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:13:43,659 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:13:51,687 INFO spawned: 'app-serve' with pid 103
+2019-09-04 04:13:51,697 INFO spawned: 'app-consume' with pid 109
+2019-09-04 04:13:51,704 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:13:51,710 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:14:00,741 INFO spawned: 'app-serve' with pid 115
+2019-09-04 04:14:00,751 INFO spawned: 'app-consume' with pid 121
+2019-09-04 04:14:00,757 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:14:00,765 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:14:11,259 INFO spawned: 'app-serve' with pid 127
+2019-09-04 04:14:11,271 INFO spawned: 'app-consume' with pid 133
+2019-09-04 04:14:11,274 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:14:11,285 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:14:22,332 INFO spawned: 'app-serve' with pid 138
+2019-09-04 04:14:22,342 INFO spawned: 'app-consume' with pid 144
+2019-09-04 04:14:22,350 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:14:22,359 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:14:34,401 INFO spawned: 'app-serve' with pid 150
+2019-09-04 04:14:34,413 INFO spawned: 'app-consume' with pid 156
+2019-09-04 04:14:34,416 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:14:34,429 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:14:47,443 INFO spawned: 'app-serve' with pid 162
+2019-09-04 04:14:47,453 INFO spawned: 'app-consume' with pid 168
+2019-09-04 04:14:47,457 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:14:47,467 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:15:01,507 INFO spawned: 'app-serve' with pid 174
+2019-09-04 04:15:01,516 INFO spawned: 'app-consume' with pid 180
+2019-09-04 04:15:01,523 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:15:01,535 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:15:16,530 INFO spawned: 'app-serve' with pid 186
+2019-09-04 04:15:16,546 INFO spawned: 'app-consume' with pid 192
+2019-09-04 04:15:16,548 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:15:16,560 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:15:32,621 INFO spawned: 'app-serve' with pid 198
+2019-09-04 04:15:32,630 INFO spawned: 'app-consume' with pid 203
+2019-09-04 04:15:32,637 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:15:32,645 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:15:49,669 INFO spawned: 'app-serve' with pid 210
+2019-09-04 04:15:49,675 INFO spawned: 'app-consume' with pid 211
+2019-09-04 04:15:49,691 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:15:49,692 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:16:07,778 INFO spawned: 'app-serve' with pid 222
+2019-09-04 04:16:07,788 INFO spawned: 'app-consume' with pid 227
+2019-09-04 04:16:07,796 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:16:07,805 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:16:26,849 INFO spawned: 'app-serve' with pid 234
+2019-09-04 04:16:26,856 INFO spawned: 'app-consume' with pid 235
+2019-09-04 04:16:26,869 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:16:26,869 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:16:46,907 INFO spawned: 'app-serve' with pid 247
+2019-09-04 04:16:46,915 INFO spawned: 'app-consume' with pid 248
+2019-09-04 04:16:46,921 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:16:46,933 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:17:08,072 INFO spawned: 'app-serve' with pid 259
+2019-09-04 04:17:08,083 INFO spawned: 'app-consume' with pid 265
+2019-09-04 04:17:08,086 INFO exited: app-serve (exit status 0; not expected)
+2019-09-04 04:17:08,098 INFO exited: app-consume (exit status 0; not expected)
+2019-09-04 04:17:09,221 WARN received SIGTERM indicating exit request
+2019-09-04 04:17:09,222 INFO waiting for app-serve to die
+2019-09-04 04:17:43,082 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2019-09-04 04:17:43,083 INFO Included extra file "/etc/supervisor.d/app-consume.ini" during parsing
+2019-09-04 04:17:43,083 INFO Included extra file "/etc/supervisor.d/app-serve.ini" during parsing
+2019-09-04 04:17:43,101 INFO RPC interface 'supervisor' initialized
+2019-09-04 04:17:43,102 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2019-09-04 04:17:43,106 INFO RPC interface 'supervisor' initialized
+2019-09-04 04:17:43,107 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-04 04:17:43,108 INFO supervisord started with pid 1
+2019-09-04 04:17:44,117 INFO spawned: 'app-serve' with pid 8
+2019-09-04 04:17:44,124 INFO spawned: 'app-consume' with pid 9
+2019-09-04 04:17:44,144 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:17:45,147 INFO success: app-serve entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-09-04 04:17:45,152 INFO spawned: 'app-consume' with pid 20
+2019-09-04 04:17:45,169 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:17:47,347 INFO spawned: 'app-consume' with pid 27
+2019-09-04 04:17:47,364 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:17:50,378 INFO spawned: 'app-consume' with pid 33
+2019-09-04 04:17:50,391 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:17:54,414 INFO spawned: 'app-consume' with pid 40
+2019-09-04 04:17:54,429 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:17:59,453 INFO spawned: 'app-consume' with pid 45
+2019-09-04 04:17:59,467 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:18:05,493 INFO spawned: 'app-consume' with pid 51
+2019-09-04 04:18:05,507 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:18:13,505 INFO spawned: 'app-consume' with pid 57
+2019-09-04 04:18:13,519 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:18:21,548 INFO spawned: 'app-consume' with pid 63
+2019-09-04 04:18:21,562 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:18:30,606 INFO spawned: 'app-consume' with pid 69
+2019-09-04 04:18:30,621 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:18:40,629 INFO spawned: 'app-consume' with pid 75
+2019-09-04 04:18:40,644 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:18:51,678 INFO spawned: 'app-consume' with pid 81
+2019-09-04 04:18:51,690 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:19:03,731 INFO spawned: 'app-consume' with pid 87
+2019-09-04 04:19:03,745 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:19:16,767 INFO spawned: 'app-consume' with pid 93
+2019-09-04 04:19:16,781 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:19:30,837 INFO spawned: 'app-consume' with pid 99
+2019-09-04 04:19:30,850 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:19:45,865 INFO spawned: 'app-consume' with pid 105
+2019-09-04 04:19:45,880 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:20:01,948 INFO spawned: 'app-consume' with pid 111
+2019-09-04 04:20:01,961 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:20:18,997 INFO spawned: 'app-consume' with pid 117
+2019-09-04 04:20:19,012 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:20:37,084 INFO spawned: 'app-consume' with pid 123
+2019-09-04 04:20:37,098 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:20:56,124 INFO spawned: 'app-consume' with pid 129
+2019-09-04 04:20:56,136 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:21:16,183 INFO spawned: 'app-consume' with pid 135
+2019-09-04 04:21:16,196 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:21:37,279 INFO spawned: 'app-consume' with pid 141
+2019-09-04 04:21:37,291 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:21:59,342 INFO spawned: 'app-consume' with pid 147
+2019-09-04 04:21:59,356 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:22:22,411 INFO spawned: 'app-consume' with pid 153
+2019-09-04 04:22:22,425 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:22:46,478 INFO spawned: 'app-consume' with pid 159
+2019-09-04 04:22:46,493 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:23:11,554 INFO spawned: 'app-consume' with pid 165
+2019-09-04 04:23:11,569 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:23:37,723 INFO spawned: 'app-consume' with pid 171
+2019-09-04 04:23:37,737 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:24:04,864 INFO spawned: 'app-consume' with pid 177
+2019-09-04 04:24:04,877 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:24:32,984 INFO spawned: 'app-consume' with pid 184
+2019-09-04 04:24:32,999 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:25:02,112 INFO spawned: 'app-consume' with pid 190
+2019-09-04 04:25:02,127 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:25:32,254 INFO spawned: 'app-consume' with pid 196
+2019-09-04 04:25:32,268 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:26:03,439 INFO spawned: 'app-consume' with pid 202
+2019-09-04 04:26:03,453 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:26:35,590 INFO spawned: 'app-consume' with pid 208
+2019-09-04 04:26:35,604 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:27:08,753 INFO spawned: 'app-consume' with pid 214
+2019-09-04 04:27:08,767 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:27:42,922 INFO spawned: 'app-consume' with pid 220
+2019-09-04 04:27:42,937 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:28:18,096 INFO spawned: 'app-consume' with pid 226
+2019-09-04 04:28:18,109 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:28:54,251 INFO spawned: 'app-consume' with pid 232
+2019-09-04 04:28:54,263 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:29:31,445 INFO spawned: 'app-consume' with pid 238
+2019-09-04 04:29:31,459 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:30:09,603 INFO spawned: 'app-consume' with pid 244
+2019-09-04 04:30:09,617 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:30:48,804 INFO spawned: 'app-consume' with pid 250
+2019-09-04 04:30:48,818 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:31:28,961 INFO spawned: 'app-consume' with pid 256
+2019-09-04 04:31:28,975 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:32:10,054 INFO spawned: 'app-consume' with pid 262
+2019-09-04 04:32:10,068 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:32:52,227 INFO spawned: 'app-consume' with pid 268
+2019-09-04 04:32:52,241 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:33:35,479 INFO spawned: 'app-consume' with pid 274
+2019-09-04 04:33:35,493 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:34:19,657 INFO spawned: 'app-consume' with pid 279
+2019-09-04 04:34:19,671 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:35:04,932 INFO spawned: 'app-consume' with pid 285
+2019-09-04 04:35:04,946 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:35:51,072 INFO spawned: 'app-consume' with pid 291
+2019-09-04 04:35:51,086 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:36:38,238 INFO spawned: 'app-consume' with pid 297
+2019-09-04 04:36:38,253 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:37:26,523 INFO spawned: 'app-consume' with pid 303
+2019-09-04 04:37:26,538 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:38:15,751 INFO spawned: 'app-consume' with pid 309
+2019-09-04 04:38:15,765 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:39:06,055 INFO spawned: 'app-consume' with pid 315
+2019-09-04 04:39:06,070 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:39:57,333 INFO spawned: 'app-consume' with pid 321
+2019-09-04 04:39:57,347 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:40:49,558 INFO spawned: 'app-consume' with pid 327
+2019-09-04 04:40:49,572 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:41:42,739 INFO spawned: 'app-consume' with pid 333
+2019-09-04 04:41:42,752 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:42:37,018 INFO spawned: 'app-consume' with pid 339
+2019-09-04 04:42:37,032 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:43:32,233 INFO spawned: 'app-consume' with pid 345
+2019-09-04 04:43:32,248 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:44:28,447 INFO spawned: 'app-consume' with pid 351
+2019-09-04 04:44:28,462 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:45:25,689 INFO spawned: 'app-consume' with pid 357
+2019-09-04 04:45:25,703 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:46:23,933 INFO spawned: 'app-consume' with pid 363
+2019-09-04 04:46:23,946 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:47:23,178 INFO spawned: 'app-consume' with pid 369
+2019-09-04 04:47:23,192 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:48:23,449 INFO spawned: 'app-consume' with pid 375
+2019-09-04 04:48:23,462 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:49:24,686 INFO spawned: 'app-consume' with pid 381
+2019-09-04 04:49:24,699 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:50:26,845 INFO spawned: 'app-consume' with pid 387
+2019-09-04 04:50:26,858 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:51:30,131 INFO spawned: 'app-consume' with pid 393
+2019-09-04 04:51:30,144 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:52:34,467 INFO spawned: 'app-consume' with pid 399
+2019-09-04 04:52:34,480 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:53:39,702 INFO spawned: 'app-consume' with pid 405
+2019-09-04 04:53:39,715 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:54:45,999 INFO spawned: 'app-consume' with pid 411
+2019-09-04 04:54:46,014 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:55:53,316 INFO spawned: 'app-consume' with pid 417
+2019-09-04 04:55:53,329 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:57:01,658 INFO spawned: 'app-consume' with pid 423
+2019-09-04 04:57:01,672 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:58:10,940 INFO spawned: 'app-consume' with pid 429
+2019-09-04 04:58:10,953 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 04:59:21,213 INFO spawned: 'app-consume' with pid 435
+2019-09-04 04:59:21,227 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:00:32,544 INFO spawned: 'app-consume' with pid 441
+2019-09-04 05:00:32,558 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:01:44,840 INFO spawned: 'app-consume' with pid 447
+2019-09-04 05:01:44,855 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:02:58,155 INFO spawned: 'app-consume' with pid 453
+2019-09-04 05:02:58,169 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:04:12,444 INFO spawned: 'app-consume' with pid 459
+2019-09-04 05:04:12,457 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:05:27,827 INFO spawned: 'app-consume' with pid 465
+2019-09-04 05:05:27,840 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:06:44,169 INFO spawned: 'app-consume' with pid 471
+2019-09-04 05:06:44,183 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:08:01,542 INFO spawned: 'app-consume' with pid 477
+2019-09-04 05:08:01,554 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:09:19,858 INFO spawned: 'app-consume' with pid 483
+2019-09-04 05:09:19,872 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:10:39,192 INFO spawned: 'app-consume' with pid 489
+2019-09-04 05:10:39,206 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:11:59,595 INFO spawned: 'app-consume' with pid 495
+2019-09-04 05:11:59,609 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:13:20,940 INFO spawned: 'app-consume' with pid 501
+2019-09-04 05:13:20,951 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:14:43,273 INFO spawned: 'app-consume' with pid 507
+2019-09-04 05:14:43,287 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:16:06,704 INFO spawned: 'app-consume' with pid 513
+2019-09-04 05:16:06,718 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:17:31,137 INFO spawned: 'app-consume' with pid 519
+2019-09-04 05:17:31,150 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:18:56,526 INFO spawned: 'app-consume' with pid 525
+2019-09-04 05:18:56,538 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:20:22,937 INFO spawned: 'app-consume' with pid 531
+2019-09-04 05:20:22,952 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:21:50,299 INFO spawned: 'app-consume' with pid 537
+2019-09-04 05:21:50,314 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:23:18,592 INFO spawned: 'app-consume' with pid 543
+2019-09-04 05:23:18,604 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:24:48,040 INFO spawned: 'app-consume' with pid 549
+2019-09-04 05:24:48,055 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:26:18,411 INFO spawned: 'app-consume' with pid 555
+2019-09-04 05:26:18,425 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:27:49,834 INFO spawned: 'app-consume' with pid 561
+2019-09-04 05:27:49,847 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:29:22,253 INFO spawned: 'app-consume' with pid 567
+2019-09-04 05:29:22,268 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:30:55,700 INFO spawned: 'app-consume' with pid 573
+2019-09-04 05:30:55,715 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:32:30,156 INFO spawned: 'app-consume' with pid 579
+2019-09-04 05:32:30,171 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:34:05,425 INFO spawned: 'app-consume' with pid 585
+2019-09-04 05:34:05,438 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:35:41,806 INFO spawned: 'app-consume' with pid 591
+2019-09-04 05:35:41,820 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:37:19,272 INFO spawned: 'app-consume' with pid 597
+2019-09-04 05:37:19,287 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:38:57,746 INFO spawned: 'app-consume' with pid 603
+2019-09-04 05:38:57,761 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:40:37,206 INFO spawned: 'app-consume' with pid 609
+2019-09-04 05:40:37,221 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:42:17,672 INFO spawned: 'app-consume' with pid 615
+2019-09-04 05:42:17,685 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 05:42:17,687 INFO gave up: app-consume entered FATAL state, too many start retries too quickly
+2019-09-04 06:00:15,544 WARN received SIGTERM indicating exit request
+2019-09-04 06:00:15,545 INFO waiting for app-serve to die
+2019-09-04 06:00:16,551 INFO stopped: app-serve (terminated by SIGTERM)
+2019-09-04 06:00:28,219 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2019-09-04 06:00:28,220 INFO Included extra file "/etc/supervisor.d/app-consume.ini" during parsing
+2019-09-04 06:00:28,221 INFO Included extra file "/etc/supervisor.d/app-serve.ini" during parsing
+2019-09-04 06:00:28,229 INFO RPC interface 'supervisor' initialized
+2019-09-04 06:00:28,230 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2019-09-04 06:00:28,231 INFO RPC interface 'supervisor' initialized
+2019-09-04 06:00:28,232 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-04 06:00:28,233 INFO supervisord started with pid 1
+2019-09-04 06:00:29,247 INFO spawned: 'app-serve' with pid 8
+2019-09-04 06:00:29,257 INFO spawned: 'app-consume' with pid 14
+2019-09-04 06:00:29,273 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:00:30,275 INFO success: app-serve entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-09-04 06:00:30,284 INFO spawned: 'app-consume' with pid 20
+2019-09-04 06:00:30,298 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:00:33,109 INFO spawned: 'app-consume' with pid 28
+2019-09-04 06:00:33,124 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:00:36,144 INFO spawned: 'app-consume' with pid 34
+2019-09-04 06:00:36,158 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:00:38,576 WARN received SIGTERM indicating exit request
+2019-09-04 06:00:38,578 INFO waiting for app-serve to die
+2019-09-04 06:00:39,580 INFO stopped: app-serve (terminated by SIGTERM)
+2019-09-04 06:00:45,759 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2019-09-04 06:00:45,759 INFO Included extra file "/etc/supervisor.d/app-consume.ini" during parsing
+2019-09-04 06:00:45,760 INFO Included extra file "/etc/supervisor.d/app-serve.ini" during parsing
+2019-09-04 06:00:45,776 INFO RPC interface 'supervisor' initialized
+2019-09-04 06:00:45,777 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2019-09-04 06:00:45,778 INFO RPC interface 'supervisor' initialized
+2019-09-04 06:00:45,779 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-04 06:00:45,779 INFO supervisord started with pid 1
+2019-09-04 06:00:46,787 INFO spawned: 'app-serve' with pid 7
+2019-09-04 06:00:46,794 INFO spawned: 'app-consume' with pid 8
+2019-09-04 06:00:46,809 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:00:47,813 INFO success: app-serve entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-09-04 06:00:47,819 INFO spawned: 'app-consume' with pid 19
+2019-09-04 06:00:47,835 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:00:50,365 INFO spawned: 'app-consume' with pid 27
+2019-09-04 06:00:50,380 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:00:53,398 INFO spawned: 'app-consume' with pid 33
+2019-09-04 06:00:53,412 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:00:57,428 INFO spawned: 'app-consume' with pid 39
+2019-09-04 06:00:57,442 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:01:02,460 INFO spawned: 'app-consume' with pid 45
+2019-09-04 06:01:02,474 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:01:09,460 INFO spawned: 'app-consume' with pid 51
+2019-09-04 06:01:09,483 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:01:16,503 INFO spawned: 'app-consume' with pid 57
+2019-09-04 06:01:16,516 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:01:24,546 INFO spawned: 'app-consume' with pid 63
+2019-09-04 06:01:24,560 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:01:34,557 INFO spawned: 'app-consume' with pid 69
+2019-09-04 06:01:34,570 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:01:44,606 INFO spawned: 'app-consume' with pid 75
+2019-09-04 06:01:44,621 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:01:55,657 INFO spawned: 'app-consume' with pid 81
+2019-09-04 06:01:55,671 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:02:08,672 INFO spawned: 'app-consume' with pid 87
+2019-09-04 06:02:08,685 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:02:21,722 INFO spawned: 'app-consume' with pid 93
+2019-09-04 06:02:21,736 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:02:36,744 INFO spawned: 'app-consume' with pid 99
+2019-09-04 06:02:36,758 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:02:51,802 INFO spawned: 'app-consume' with pid 105
+2019-09-04 06:02:51,815 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:03:07,836 INFO spawned: 'app-consume' with pid 111
+2019-09-04 06:03:07,851 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:03:24,911 INFO spawned: 'app-consume' with pid 117
+2019-09-04 06:03:24,926 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:03:42,963 INFO spawned: 'app-consume' with pid 123
+2019-09-04 06:03:42,976 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:04:02,036 INFO spawned: 'app-consume' with pid 129
+2019-09-04 06:04:02,049 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:04:22,081 INFO spawned: 'app-consume' with pid 135
+2019-09-04 06:04:22,095 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:04:43,119 INFO spawned: 'app-consume' with pid 141
+2019-09-04 06:04:43,134 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:05:05,174 INFO spawned: 'app-consume' with pid 147
+2019-09-04 06:05:05,189 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:05:28,260 INFO spawned: 'app-consume' with pid 153
+2019-09-04 06:05:28,276 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:05:52,323 INFO spawned: 'app-consume' with pid 159
+2019-09-04 06:05:52,335 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:06:17,379 INFO spawned: 'app-consume' with pid 165
+2019-09-04 06:06:17,394 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:06:43,436 INFO spawned: 'app-consume' with pid 171
+2019-09-04 06:06:43,450 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:07:10,498 INFO spawned: 'app-consume' with pid 178
+2019-09-04 06:07:10,512 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:07:38,575 INFO spawned: 'app-consume' with pid 184
+2019-09-04 06:07:38,589 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:08:07,666 INFO spawned: 'app-consume' with pid 190
+2019-09-04 06:08:07,680 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:08:37,741 INFO spawned: 'app-consume' with pid 196
+2019-09-04 06:08:37,755 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:09:08,829 INFO spawned: 'app-consume' with pid 202
+2019-09-04 06:09:08,842 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:09:40,929 INFO spawned: 'app-consume' with pid 208
+2019-09-04 06:09:40,944 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:10:14,012 INFO spawned: 'app-consume' with pid 214
+2019-09-04 06:10:14,027 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:10:48,107 INFO spawned: 'app-consume' with pid 220
+2019-09-04 06:10:48,120 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:11:23,189 INFO spawned: 'app-consume' with pid 226
+2019-09-04 06:11:23,204 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:11:59,264 INFO spawned: 'app-consume' with pid 232
+2019-09-04 06:11:59,279 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:12:36,353 INFO spawned: 'app-consume' with pid 238
+2019-09-04 06:12:36,367 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:13:14,454 INFO spawned: 'app-consume' with pid 244
+2019-09-04 06:13:14,474 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:13:53,563 INFO spawned: 'app-consume' with pid 250
+2019-09-04 06:13:53,578 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:14:33,623 INFO spawned: 'app-consume' with pid 256
+2019-09-04 06:14:33,635 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:15:14,723 INFO spawned: 'app-consume' with pid 262
+2019-09-04 06:15:14,737 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:15:56,823 INFO spawned: 'app-consume' with pid 268
+2019-09-04 06:15:56,836 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:16:39,891 INFO spawned: 'app-consume' with pid 274
+2019-09-04 06:16:39,906 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:17:24,003 INFO spawned: 'app-consume' with pid 280
+2019-09-04 06:17:24,017 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:18:09,048 INFO spawned: 'app-consume' with pid 286
+2019-09-04 06:18:09,063 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:18:55,138 INFO spawned: 'app-consume' with pid 292
+2019-09-04 06:18:55,153 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:19:42,208 INFO spawned: 'app-consume' with pid 298
+2019-09-04 06:19:42,223 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:20:30,315 INFO spawned: 'app-consume' with pid 304
+2019-09-04 06:20:30,329 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:21:19,405 INFO spawned: 'app-consume' with pid 310
+2019-09-04 06:21:19,416 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:22:09,513 INFO spawned: 'app-consume' with pid 316
+2019-09-04 06:22:09,525 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:23:00,611 INFO spawned: 'app-consume' with pid 322
+2019-09-04 06:23:00,625 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:23:52,686 INFO spawned: 'app-consume' with pid 328
+2019-09-04 06:23:52,700 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:24:45,765 INFO spawned: 'app-consume' with pid 334
+2019-09-04 06:24:45,779 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:25:39,870 INFO spawned: 'app-consume' with pid 340
+2019-09-04 06:25:39,885 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:26:35,065 INFO spawned: 'app-consume' with pid 346
+2019-09-04 06:26:35,079 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:27:31,292 INFO spawned: 'app-consume' with pid 352
+2019-09-04 06:27:31,306 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:28:28,412 INFO spawned: 'app-consume' with pid 358
+2019-09-04 06:28:28,426 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:29:26,540 INFO spawned: 'app-consume' with pid 364
+2019-09-04 06:29:26,555 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:30:25,683 INFO spawned: 'app-consume' with pid 370
+2019-09-04 06:30:25,699 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:31:25,809 INFO spawned: 'app-consume' with pid 376
+2019-09-04 06:31:25,824 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:32:26,954 INFO spawned: 'app-consume' with pid 382
+2019-09-04 06:32:26,969 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:33:29,083 INFO spawned: 'app-consume' with pid 388
+2019-09-04 06:33:29,100 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:34:32,205 INFO spawned: 'app-consume' with pid 394
+2019-09-04 06:34:32,230 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:35:36,304 INFO spawned: 'app-consume' with pid 400
+2019-09-04 06:35:36,319 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:36:41,542 INFO spawned: 'app-consume' with pid 406
+2019-09-04 06:36:41,557 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:37:47,667 INFO spawned: 'app-consume' with pid 412
+2019-09-04 06:37:47,683 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:38:54,814 INFO spawned: 'app-consume' with pid 418
+2019-09-04 06:38:54,827 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:40:02,919 INFO spawned: 'app-consume' with pid 424
+2019-09-04 06:40:02,936 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:41:12,032 INFO spawned: 'app-consume' with pid 430
+2019-09-04 06:41:12,046 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:42:22,193 INFO spawned: 'app-consume' with pid 436
+2019-09-04 06:42:22,209 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:43:33,320 INFO spawned: 'app-consume' with pid 442
+2019-09-04 06:43:33,334 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:44:45,492 INFO spawned: 'app-consume' with pid 448
+2019-09-04 06:44:45,507 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:45:58,702 INFO spawned: 'app-consume' with pid 454
+2019-09-04 06:45:58,716 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:47:12,782 INFO spawned: 'app-consume' with pid 460
+2019-09-04 06:47:12,797 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:48:28,011 INFO spawned: 'app-consume' with pid 466
+2019-09-04 06:48:28,025 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:49:44,193 INFO spawned: 'app-consume' with pid 472
+2019-09-04 06:49:44,207 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:51:01,350 INFO spawned: 'app-consume' with pid 477
+2019-09-04 06:51:01,364 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:52:19,568 INFO spawned: 'app-consume' with pid 483
+2019-09-04 06:52:19,582 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:53:38,777 INFO spawned: 'app-consume' with pid 489
+2019-09-04 06:53:38,789 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:54:58,933 INFO spawned: 'app-consume' with pid 495
+2019-09-04 06:54:58,946 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:56:20,134 INFO spawned: 'app-consume' with pid 501
+2019-09-04 06:56:20,148 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:57:42,443 INFO spawned: 'app-consume' with pid 507
+2019-09-04 06:57:42,457 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 06:59:05,731 INFO spawned: 'app-consume' with pid 513
+2019-09-04 06:59:05,745 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:00:30,116 INFO spawned: 'app-consume' with pid 519
+2019-09-04 07:00:30,130 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:01:55,504 INFO spawned: 'app-consume' with pid 525
+2019-09-04 07:01:55,517 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:03:21,832 INFO spawned: 'app-consume' with pid 531
+2019-09-04 07:03:21,846 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:04:49,007 INFO spawned: 'app-consume' with pid 537
+2019-09-04 07:04:49,020 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:06:17,141 INFO spawned: 'app-consume' with pid 543
+2019-09-04 07:06:17,156 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:07:46,286 INFO spawned: 'app-consume' with pid 549
+2019-09-04 07:07:46,299 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:09:16,413 INFO spawned: 'app-consume' with pid 555
+2019-09-04 07:09:16,440 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:10:47,574 INFO spawned: 'app-consume' with pid 561
+2019-09-04 07:10:47,588 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:12:19,796 INFO spawned: 'app-consume' with pid 566
+2019-09-04 07:12:19,810 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:13:53,011 INFO spawned: 'app-consume' with pid 572
+2019-09-04 07:13:53,026 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:15:27,212 INFO spawned: 'app-consume' with pid 578
+2019-09-04 07:15:27,227 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:17:02,383 INFO spawned: 'app-consume' with pid 584
+2019-09-04 07:17:02,397 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:18:38,661 INFO spawned: 'app-consume' with pid 590
+2019-09-04 07:18:38,675 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:20:16,068 INFO spawned: 'app-consume' with pid 596
+2019-09-04 07:20:16,082 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:21:54,520 INFO spawned: 'app-consume' with pid 602
+2019-09-04 07:21:54,535 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:23:33,809 INFO spawned: 'app-consume' with pid 608
+2019-09-04 07:23:33,823 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:25:13,952 INFO spawned: 'app-consume' with pid 614
+2019-09-04 07:25:13,968 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:25:13,969 INFO gave up: app-consume entered FATAL state, too many start retries too quickly
+2019-09-04 07:38:51,826 WARN received SIGTERM indicating exit request
+2019-09-04 07:38:51,833 INFO waiting for app-serve to die
+2019-09-04 07:38:52,840 INFO stopped: app-serve (terminated by SIGTERM)
+2019-09-04 07:39:08,512 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2019-09-04 07:39:08,513 INFO Included extra file "/etc/supervisor.d/app-consume.ini" during parsing
+2019-09-04 07:39:08,518 INFO Included extra file "/etc/supervisor.d/app-serve.ini" during parsing
+2019-09-04 07:39:08,540 INFO RPC interface 'supervisor' initialized
+2019-09-04 07:39:08,551 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2019-09-04 07:39:08,553 INFO RPC interface 'supervisor' initialized
+2019-09-04 07:39:08,554 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-04 07:39:08,555 INFO supervisord started with pid 1
+2019-09-04 07:39:09,574 INFO spawned: 'app-serve' with pid 7
+2019-09-04 07:39:09,580 INFO spawned: 'app-consume' with pid 8
+2019-09-04 07:39:09,594 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:39:10,597 INFO success: app-serve entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-09-04 07:39:10,601 INFO spawned: 'app-consume' with pid 19
+2019-09-04 07:39:10,616 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:39:13,247 INFO spawned: 'app-consume' with pid 28
+2019-09-04 07:39:13,268 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:39:16,279 INFO spawned: 'app-consume' with pid 34
+2019-09-04 07:39:16,292 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:39:20,312 INFO spawned: 'app-consume' with pid 40
+2019-09-04 07:39:20,327 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:39:25,347 INFO spawned: 'app-consume' with pid 46
+2019-09-04 07:39:25,362 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:39:32,355 INFO spawned: 'app-consume' with pid 52
+2019-09-04 07:39:32,368 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:39:39,403 INFO spawned: 'app-consume' with pid 58
+2019-09-04 07:39:39,417 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:39:47,445 INFO spawned: 'app-consume' with pid 64
+2019-09-04 07:39:47,459 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:39:56,489 INFO spawned: 'app-consume' with pid 70
+2019-09-04 07:39:56,503 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:40:07,511 INFO spawned: 'app-consume' with pid 76
+2019-09-04 07:40:07,525 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:40:18,574 INFO spawned: 'app-consume' with pid 82
+2019-09-04 07:40:18,588 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:40:31,595 INFO spawned: 'app-consume' with pid 88
+2019-09-04 07:40:31,609 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:40:44,652 INFO spawned: 'app-consume' with pid 94
+2019-09-04 07:40:44,664 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:40:58,676 INFO spawned: 'app-consume' with pid 100
+2019-09-04 07:40:58,691 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:41:13,740 INFO spawned: 'app-consume' with pid 106
+2019-09-04 07:41:13,754 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:41:29,778 INFO spawned: 'app-consume' with pid 112
+2019-09-04 07:41:29,793 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:41:46,848 INFO spawned: 'app-consume' with pid 118
+2019-09-04 07:41:46,863 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:42:04,875 INFO spawned: 'app-consume' with pid 124
+2019-09-04 07:42:04,890 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:42:23,931 INFO spawned: 'app-consume' with pid 131
+2019-09-04 07:42:23,945 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:42:43,968 INFO spawned: 'app-consume' with pid 137
+2019-09-04 07:42:43,982 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:43:05,018 INFO spawned: 'app-consume' with pid 143
+2019-09-04 07:43:05,033 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:43:27,065 INFO spawned: 'app-consume' with pid 149
+2019-09-04 07:43:27,079 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:43:50,144 INFO spawned: 'app-consume' with pid 155
+2019-09-04 07:43:50,159 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:44:14,199 INFO spawned: 'app-consume' with pid 161
+2019-09-04 07:44:14,215 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:44:39,270 INFO spawned: 'app-consume' with pid 167
+2019-09-04 07:44:39,282 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:45:05,343 INFO spawned: 'app-consume' with pid 173
+2019-09-04 07:45:05,357 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:45:32,417 INFO spawned: 'app-consume' with pid 179
+2019-09-04 07:45:32,430 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:46:00,510 INFO spawned: 'app-consume' with pid 185
+2019-09-04 07:46:00,523 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:46:29,590 INFO spawned: 'app-consume' with pid 191
+2019-09-04 07:46:29,603 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:46:59,660 INFO spawned: 'app-consume' with pid 197
+2019-09-04 07:46:59,674 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:47:30,736 INFO spawned: 'app-consume' with pid 203
+2019-09-04 07:47:30,749 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:48:02,815 INFO spawned: 'app-consume' with pid 209
+2019-09-04 07:48:02,829 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:48:35,907 INFO spawned: 'app-consume' with pid 215
+2019-09-04 07:48:35,921 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:49:10,007 INFO spawned: 'app-consume' with pid 221
+2019-09-04 07:49:10,022 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:49:45,094 INFO spawned: 'app-consume' with pid 227
+2019-09-04 07:49:45,107 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:50:21,184 INFO spawned: 'app-consume' with pid 233
+2019-09-04 07:50:21,198 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:50:58,257 INFO spawned: 'app-consume' with pid 239
+2019-09-04 07:50:58,270 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:51:36,376 INFO spawned: 'app-consume' with pid 245
+2019-09-04 07:51:36,392 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:52:15,482 INFO spawned: 'app-consume' with pid 251
+2019-09-04 07:52:15,501 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:52:55,568 INFO spawned: 'app-consume' with pid 257
+2019-09-04 07:52:55,583 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:53:36,636 INFO spawned: 'app-consume' with pid 263
+2019-09-04 07:53:36,651 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:54:18,758 INFO spawned: 'app-consume' with pid 269
+2019-09-04 07:54:18,773 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:55:01,825 INFO spawned: 'app-consume' with pid 275
+2019-09-04 07:55:01,841 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:55:45,969 INFO spawned: 'app-consume' with pid 282
+2019-09-04 07:55:45,999 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:56:31,085 INFO spawned: 'app-consume' with pid 288
+2019-09-04 07:56:31,100 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:57:17,213 INFO spawned: 'app-consume' with pid 294
+2019-09-04 07:57:17,227 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:58:04,296 INFO spawned: 'app-consume' with pid 300
+2019-09-04 07:58:04,311 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:58:52,452 INFO spawned: 'app-consume' with pid 306
+2019-09-04 07:58:52,465 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 07:59:41,554 INFO spawned: 'app-consume' with pid 312
+2019-09-04 07:59:41,568 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:00:31,658 INFO spawned: 'app-consume' with pid 318
+2019-09-04 08:00:31,672 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:01:22,820 INFO spawned: 'app-consume' with pid 324
+2019-09-04 08:01:22,834 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:02:14,926 INFO spawned: 'app-consume' with pid 330
+2019-09-04 08:02:14,939 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:03:08,028 INFO spawned: 'app-consume' with pid 336
+2019-09-04 08:03:08,041 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:04:02,104 INFO spawned: 'app-consume' with pid 342
+2019-09-04 08:04:02,116 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:04:57,194 INFO spawned: 'app-consume' with pid 348
+2019-09-04 08:04:57,209 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:05:53,344 INFO spawned: 'app-consume' with pid 354
+2019-09-04 08:05:53,360 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:06:50,452 INFO spawned: 'app-consume' with pid 360
+2019-09-04 08:06:50,466 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:07:48,572 INFO spawned: 'app-consume' with pid 366
+2019-09-04 08:07:48,586 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:08:47,698 INFO spawned: 'app-consume' with pid 372
+2019-09-04 08:08:47,711 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:09:47,808 INFO spawned: 'app-consume' with pid 378
+2019-09-04 08:09:47,824 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:10:48,939 INFO spawned: 'app-consume' with pid 384
+2019-09-04 08:10:48,952 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:11:51,055 INFO spawned: 'app-consume' with pid 390
+2019-09-04 08:11:51,069 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:12:54,196 INFO spawned: 'app-consume' with pid 396
+2019-09-04 08:12:54,209 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:13:58,289 INFO spawned: 'app-consume' with pid 402
+2019-09-04 08:13:58,304 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:15:03,438 INFO spawned: 'app-consume' with pid 407
+2019-09-04 08:15:03,451 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:16:09,544 INFO spawned: 'app-consume' with pid 413
+2019-09-04 08:16:09,584 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:17:16,706 INFO spawned: 'app-consume' with pid 419
+2019-09-04 08:17:16,721 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:18:24,985 INFO spawned: 'app-consume' with pid 425
+2019-09-04 08:18:25,000 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:19:34,130 INFO spawned: 'app-consume' with pid 431
+2019-09-04 08:19:34,143 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:20:44,270 INFO spawned: 'app-consume' with pid 437
+2019-09-04 08:20:44,283 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:21:55,392 INFO spawned: 'app-consume' with pid 443
+2019-09-04 08:21:55,405 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:23:07,535 INFO spawned: 'app-consume' with pid 449
+2019-09-04 08:23:07,550 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:24:20,690 INFO spawned: 'app-consume' with pid 455
+2019-09-04 08:24:20,706 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:25:34,829 INFO spawned: 'app-consume' with pid 461
+2019-09-04 08:25:34,843 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:26:49,986 INFO spawned: 'app-consume' with pid 467
+2019-09-04 08:26:50,002 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:28:06,077 INFO spawned: 'app-consume' with pid 473
+2019-09-04 08:28:06,094 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:29:23,507 INFO spawned: 'app-consume' with pid 479
+2019-09-04 08:29:23,522 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:30:41,681 INFO spawned: 'app-consume' with pid 485
+2019-09-04 08:30:41,696 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:32:00,891 INFO spawned: 'app-consume' with pid 491
+2019-09-04 08:32:00,905 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:33:21,116 INFO spawned: 'app-consume' with pid 497
+2019-09-04 08:33:21,131 INFO exited: app-consume (exit status 3; not expected)
+2019-09-04 08:33:56,974 WARN received SIGTERM indicating exit request
+2019-09-04 08:33:56,975 INFO waiting for app-serve to die
+2019-09-04 08:33:57,980 INFO stopped: app-serve (terminated by SIGTERM)

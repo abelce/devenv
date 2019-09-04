@@ -35,3 +35,24 @@ services:
       - POSTGRES_DB=authdb
     ports:
       - "15432:5432"
+
+  merchant:
+    image: "registry.gitlab.com/zxtang/merchant:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/merchant.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/merchant/log:/var/log:z"
+    environment:
+      - ENV
+
+  merchantdb:
+    image: "registry.gitlab.com/zxtang_db/merchant:1.0.0"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/merchantdb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=merchantdb

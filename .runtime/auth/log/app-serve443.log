@@ -1,0 +1,4080 @@
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
+[/go/bin/app -c /go/bin/config.json serve -443]Incorrect Usage: flag provided but not defined: -443
+
+NAME:
+   app serve - start a auth server
+
+USAGE:
+   app serve [arguments...]
+panic: flag provided but not defined: -443
+
+goroutine 1 [running]:
+main.main()
+	/go/src/gitlab.com/zxtang/auth/main.go:16 +0x110
