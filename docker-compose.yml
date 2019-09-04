@@ -24,7 +24,7 @@ services:
       - ENV
 
   authdb:
-    image: "registry.gitlab.com/zxtang/db/auth:${ENV}"
+    image: "registry.gitlab.com/zxtang_db/auth:1.0.0"
     restart: always
     volumes:
       # 数据目录挂载到宿主机
