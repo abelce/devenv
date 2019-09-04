@@ -5,7 +5,7 @@ services:
     image: "registry.gitlab.com/zxtang/gateway:1.0.0"
     restart: always
     volumes:
-      - "./conf/gateway_${ENV}.json:/go/bin/config.json:z"
+      - "./conf/gateway.json:/go/bin/config.json"
       - "./ssl:/go/bin/ssl:z"
       - "./.runtime/gateway/log:/var/log:z"
     ports:
@@ -17,7 +17,7 @@ services:
     image: "registry.gitlab.com/zxtang/auth:1.0.0"
     restart: always
     volumes:
-      - "./conf/auth_${ENV}.json:/go/bin/config.json:z"
+      - "./conf/auth.json:/go/bin/config.json"
       - "./ssl:/go/bin/ssl:z"
       - "./.runtime/auth/log:/var/log:z"
     environment:
