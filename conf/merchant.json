@@ -4,6 +4,6 @@
     "gatewayEndpoint": "http://gateway",
     "db": {
         "driverName": "postgres",
-        "dataSourceName": "host=merchantdb port=5432 user=abelce password=123456 dbname=merchantdb sslmode=disable"
+        "dataSourceName": "host=merchantdb port=5432 user=postgres password=123456 dbname=merchantdb sslmode=disable"
     }
 }
