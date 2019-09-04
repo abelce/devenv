@@ -1,0 +1,8 @@
+{
+    "port": 9008,
+    "articleTableName": "tbl_article",
+    "db": {
+        "driverName": "postgres",
+        "dataSourceName": "host=articledb port=5432 user=postgres password=123456 dbname=articledb sslmode=disable"
+    }
+}

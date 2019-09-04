@@ -58,3 +58,26 @@ services:
       - POSTGRES_DB=merchantdb
     ports:
       - "25432:5432"
+
+  article:
+    image: "registry.gitlab.com/zxtang/article:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/article.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/article/log:/var/log:z"
+    environment:
+      - ENV
+
+  articledb:
+    image: "registry.gitlab.com/zxtang_db/article:1.0.0"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/articledb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=articledb
+    ports:
+      - "35432:5432"
