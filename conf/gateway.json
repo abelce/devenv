@@ -26,5 +26,9 @@
             "host": "article:9008",
             "path": "/"
         }
+    ],
+    "noVerify": [
+        "/v1/auth",
+        "/v1/articles/list"
     ]
 }
