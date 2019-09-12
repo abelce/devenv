@@ -81,3 +81,16 @@ services:
       - POSTGRES_DB=articledb
     ports:
       - "35432:5432"
+    
+  likedb:
+    image: "registry.gitlab.com/zxtang_db/like:1.0.0"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/likedb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=likedb
+    ports:
+      - "45432:5432"
