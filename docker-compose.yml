@@ -82,7 +82,7 @@ services:
     ports:
       - "35432:5432"
 
-  article:
+  like:
     image: "registry.gitlab.com/zxtang/like:1.0.0"
     restart: always
     volumes:
