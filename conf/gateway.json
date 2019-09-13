@@ -25,6 +25,12 @@
             "scheme": "http",
             "host": "article:9008",
             "path": "/"
+        },
+        {
+            "key": "likecount",
+            "scheme": "http",
+            "host": "article:3063",
+            "path": "/"
         }
     ],
     "noVerify": [
