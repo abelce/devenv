@@ -29,7 +29,13 @@
         {
             "key": "likecount",
             "scheme": "http",
-            "host": "article:3063",
+            "host": "like:3063",
+            "path": "/"
+        },
+        {
+            "key": "like",
+            "scheme": "http",
+            "host": "like:3063",
             "path": "/"
         }
     ],
