@@ -81,6 +81,16 @@ services:
       - POSTGRES_DB=articledb
     ports:
       - "35432:5432"
+
+  article:
+    image: "registry.gitlab.com/zxtang/like:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/like.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/like/log:/var/log:z"
+    environment:
+      - ENV
     
   likedb:
     image: "registry.gitlab.com/zxtang_db/like:1.0.0"
