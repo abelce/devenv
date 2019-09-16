@@ -1,0 +1,11 @@
+{
+    "port": 3064,
+    "fileTableName": "tbl_files",
+    "gatewayEndpoint": "http://gateway",
+    "db": {
+        "driverName": "postgres",
+        "dataSourceName": "host=148.70.144.210 port=25432 user=postgres password=123456 dbname=merchantdb sslmode=disable"
+    },
+    "baseUrl": "http://148.70.144.210/v1/file/",
+    "basePath": "/data/upload/"
+}

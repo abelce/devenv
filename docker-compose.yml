@@ -104,3 +104,14 @@ services:
       - POSTGRES_DB=likedb
     ports:
       - "45432:5432"
+
+  file:
+    image: "registry.gitlab.com/zxtang/file:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/file.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/file/log:/var/log:z"
+      - "/data/upload:/data/upload:z"
+    environment:
+      - ENV
