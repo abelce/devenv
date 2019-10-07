@@ -115,3 +115,16 @@ services:
       - "/data/upload:/data/upload:z"
     environment:
       - ENV
+
+  commentdb:
+    image: "registry.gitlab.com/zxtang_db/comment:1.0.0"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/commentdb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=commentdb
+    ports:
+      - "55432:5432"
