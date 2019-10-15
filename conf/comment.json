@@ -1,5 +1,5 @@
 {
-    "port": 3604,
+    "port": 3064,
     "commentTableName": "tbl_comments",
     "db": {
         "driverName": "postgres",
