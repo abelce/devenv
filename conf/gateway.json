@@ -42,6 +42,7 @@
     "noVerify": [
         "/v1/auth",
         "/v1/registry",
-        "/v1/articles/list"
+        "/v1/articles/list",
+        "/v1/comment/list"
     ]
 }
