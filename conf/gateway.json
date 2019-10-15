@@ -37,6 +37,12 @@
             "scheme": "http",
             "host": "like:3063",
             "path": "/"
+        },
+        {
+            "key": "comment",
+            "scheme": "http",
+            "host": "comment:3064",
+            "path": "/"
         }
     ],
     "noVerify": [
