@@ -116,6 +116,17 @@ services:
     environment:
       - ENV
 
+  comment:
+    image: "registry.gitlab.com/zxtang/comment:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/comment.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/comment/log:/var/log:z"
+    environment:
+      - ENV
+      
+
   commentdb:
     image: "registry.gitlab.com/zxtang_db/comment:1.0.0"
     restart: always

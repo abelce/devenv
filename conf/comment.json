@@ -1,0 +1,8 @@
+{
+    "port": 3604,
+    "commentTableName": "tbl_comments",
+    "db": {
+        "driverName": "postgres",
+        "dataSourceName": "host=commentdb port=5432 user=postgres password=123456 dbname=commentdb sslmode=disable"
+    }
+}
