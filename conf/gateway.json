@@ -43,6 +43,12 @@
             "scheme": "http",
             "host": "comment:3064",
             "path": "/"
+        },
+        {
+            "key": "stypes",
+            "scheme": "http",
+            "host": "stypes:3065",
+            "path": "/"
         }
     ],
     "noVerify": {
@@ -94,6 +100,15 @@
                     "urls": [
                         "/v1/operators/info",
                         "/v1/operators"
+                    ]
+                }
+            }
+        },
+        "stypes": {
+            "methods": {
+                "get": {
+                    "urls": [
+                        "/v1/stypes"
                     ]
                 }
             }

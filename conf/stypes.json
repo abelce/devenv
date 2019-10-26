@@ -1,0 +1,9 @@
+{
+    "port": 3065,
+    "sTypeTableName": "tbl_stypes",
+    "db": {
+        "driverName": "postgres",
+        "dataSourceName": "host=148.70.144.210 port=65432 user=postgres password=123456 dbname=stypesdb sslmode=disable"
+    },
+    "gatewayEndpoint": "http://api.vwood.xyz"
+}
