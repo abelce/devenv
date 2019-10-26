@@ -45,18 +45,58 @@
             "path": "/"
         }
     ],
-    "noVerifyMethod": {
-        "article": {
-            "methods": ["get"]
+    "noVerify": {
+        "articles": {
+            "methods": {
+                "get": {
+                    "urls": [
+                        "/v1/articles",
+                        "/v1/articles/list"
+                    ],
+                    "regs": [
+                        "^\/v1\/articles\/[a-z0-9-]+$"
+                    ],
+                    "all": true
+                }
+            }
         },
         "auth": {
-            "methods": ["post"]
+            "methods": {
+                "post": {
+                    "urls": [
+                        "/v1/auth"
+                    ]
+                }
+            }
         },
         "registry": {
-            "methods": ["post"]
+            "methods": {
+                "post": {
+                    "urls": [
+                        "/v1/registry"
+                    ]
+                }
+            }
         },
         "comment": {
-            "methods": ["get"]
+            "methods": {
+                "get": {
+                    "urls": [
+                        "/v1/comment",
+                        "/v1/comment/list"
+                    ]
+                }
+            }
+        },
+        "merchant": {
+            "methods": {
+                "get": {
+                    "urls": [
+                        "/v1/operators/info",
+                        "/v1/operators"
+                    ]
+                }
+            }
         }
     }
 }
