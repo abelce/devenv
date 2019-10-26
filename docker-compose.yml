@@ -140,3 +140,16 @@ services:
       - POSTGRES_DB=commentdb
     ports:
       - "55432:5432"
+
+  stypesdb:
+    image: "registry.gitlab.com/zxtang_db/stypes:1.0.0"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/stypesdb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=stypesdb
+    ports:
+      - "65432:5432"
