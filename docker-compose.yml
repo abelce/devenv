@@ -141,6 +141,16 @@ services:
     ports:
       - "55432:5432"
 
+  stypes:
+    image: "registry.gitlab.com/zxtang/stypes:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/stypes.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/stypes/log:/var/log:z"
+    environment:
+      - ENV
+
   stypesdb:
     image: "registry.gitlab.com/zxtang_db/stypes:1.0.0"
     restart: always
