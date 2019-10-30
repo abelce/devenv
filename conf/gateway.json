@@ -112,6 +112,24 @@
                     ]
                 }
             }
+        },
+        "likecount": {
+            "methods": {
+                "get": {
+                    "regs": [
+                        "^\/v1\/likecount\/[a-z0-9-]+$"
+                    ]
+                }
+            }
+        },
+        "like": {
+            "methods": {
+                "get": {
+                    "regs": [
+                        "^\/v1\/like\/check\/[a-z0-9-]+$"
+                    ]
+                }
+            }
         }
     }
 }
