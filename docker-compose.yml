@@ -163,3 +163,16 @@ services:
       - POSTGRES_DB=stypesdb
     ports:
       - "65432:5432"
+
+  souldb:
+    image: "registry.gitlab.com/zxtang_db/soul:1.0.0"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/souldb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=souldb
+    ports:
+      - "75432:5432"
