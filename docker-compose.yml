@@ -175,4 +175,4 @@ services:
     environment:
       - POSTGRES_DB=souldb
     ports:
-      - "75432:5432"
+      - "65433:5432"
