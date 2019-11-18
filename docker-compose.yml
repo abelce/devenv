@@ -184,3 +184,5 @@ services:
       - "./.runtime/vwood/log:/var/log:z"
     environment:
       - ENV
+    ports:
+      - "3001:3001"
