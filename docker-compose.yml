@@ -177,7 +177,7 @@ services:
     ports:
       - "65433:5432"
   
-  stypes:
+  vwood:
     image: "registry.gitlab.com/zxtang/vwood:1.0.0"
     restart: always
     volumes:
