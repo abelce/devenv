@@ -176,3 +176,11 @@ services:
       - POSTGRES_DB=souldb
     ports:
       - "65433:5432"
+  
+  stypes:
+    image: "registry.gitlab.com/zxtang/vwood:1.0.0"
+    restart: always
+    volumes:
+      - "./.runtime/vwood/log:/var/log:z"
+    environment:
+      - ENV
