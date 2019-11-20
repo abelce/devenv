@@ -181,7 +181,6 @@ services:
     image: "registry.gitlab.com/zxtang/vwood:1.0.0"
     restart: always
     volumes:
-      - "/root/abelce/vwood/_next:/vwood/dist"
       - "./.runtime/vwood/log:/var/log:z"
     environment:
       - ENV
