@@ -100,7 +100,6 @@
                 "get": {
                     "urls": [
                         "/v1/operators/info",
-                        "/v1/operators",
                         "/v1/operators/github/callback"
                     ]
                 }
