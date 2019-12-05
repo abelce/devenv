@@ -101,7 +101,7 @@
                     "urls": [
                         "/v1/operators/info",
                         "/v1/operators",
-                        "/operators/github/callback"
+                        "/v1/operators/github/callback"
                     ]
                 }
             }
