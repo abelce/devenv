@@ -103,7 +103,7 @@
                         "/v1/operators"
                     ],
                     "regs": [
-                        "^\/v1\/operators\/github\/callback?.*$"
+                        "^\/v1\/operators\/github\/callback.*$"
                     ]
                 }
             }
