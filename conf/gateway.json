@@ -89,7 +89,8 @@
                 "get": {
                     "urls": [
                         "/v1/comment",
-                        "/v1/comment/list"
+                        "/v1/comment/list",
+                        "/v1/comment/client/list"
                     ]
                 }
             }
@@ -99,7 +100,8 @@
                 "get": {
                     "urls": [
                         "/v1/operators/info",
-                        "/v1/operators"
+                        "/v1/operators",
+                        "/operators/github/callback"
                     ]
                 }
             }
