@@ -10,5 +10,9 @@
         "accessKey": "ZUeDQBNFMaae9jrxYmFNNNfaUUfhAFKyLbPutdZF",
         "secretKey": "Sb5MCKPs4bM-qexChWNHVL0QM0fgg575lYQAWnLL",
         "bucket": "vwood"
+    },
+    "github": {
+        "clientID": "d73efcb85cf7cee16dea",
+        "clientSecret": "051289cb52e9a35a353c5f56ff0c67316ba48e23"
     }
 }
