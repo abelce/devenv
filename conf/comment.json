@@ -1,6 +1,7 @@
 {
     "port": 3064,
     "commentTableName": "tbl_comments",
+    "websiteTableName": "tbl_websites",
     "db": {
         "driverName": "postgres",
         "dataSourceName": "host=commentdb port=5432 user=postgres password=123456 dbname=commentdb sslmode=disable"
