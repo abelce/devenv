@@ -49,6 +49,12 @@
             "scheme": "http",
             "host": "stypes:3065",
             "path": "/"
+        },
+        {
+            "key": "websites",
+            "scheme": "http",
+            "host": "comment:3064",
+            "path": "/"
         }
     ],
     "noVerify": {
