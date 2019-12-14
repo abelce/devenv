@@ -9,7 +9,7 @@ services:
       - "./ssl:/go/bin/ssl:z"
       - "./.runtime/gateway/log:/var/log:z"
     ports:
-      - "10443:8443"
+      - "10443:443"
       - "8899:80"
     environment:
       - ENV
