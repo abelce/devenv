@@ -1,6 +1,7 @@
 {
     "port": 3062,
     "operatorTableName": "tbl_operators",
+    "websiteTableName": "tbl_websites",
     "gatewayEndpoint": "http://gateway",
     "db": {
         "driverName": "postgres",
