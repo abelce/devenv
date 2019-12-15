@@ -96,7 +96,7 @@
                     "urls": [
                         "/v1/comment",
                         "/v1/comment/list",
-                        "/v1/comment/client/list"
+                        "/v1/comment/list/client"
                     ]
                 }
             }
