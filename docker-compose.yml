@@ -186,3 +186,13 @@ services:
       - ENV
     ports:
       - "3000:3000"
+  
+  email:
+    image: "registry.gitlab.com/zxtang/email:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/email.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/email/log:/var/log:z"
+    environment:
+      - ENV

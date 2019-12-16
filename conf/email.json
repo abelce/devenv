@@ -1,0 +1,7 @@
+{
+    "port": 3065,
+    "host": "smtp.qq.com",
+    "serverAddr": "smtp.qq.com:25",
+    "email": "1061225829@qq.com",
+    "password": "fxdefscgnzijbegc"
+}

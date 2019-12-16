@@ -6,5 +6,6 @@
         "driverName": "postgres",
         "dataSourceName": "host=commentdb port=5432 user=postgres password=123456 dbname=commentdb sslmode=disable"
     },
-    "gatewayEndpoint": "http://gateway"
+    "gatewayEndpoint": "http://gateway",
+    "emailSender": "1061225829@qq.com"
 }
