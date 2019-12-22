@@ -196,3 +196,16 @@ services:
       - "./.runtime/email/log:/var/log:z"
     environment:
       - ENV
+
+  productdb:
+    image: "registry.gitlab.com/zxtang_db/product:1.0.0"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/productdb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=productdb
+    ports:
+      - "65434:5432"
