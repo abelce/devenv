@@ -59,7 +59,7 @@
         {
             "key": "products",
             "scheme": "http",
-            "host": "product:3066",
+            "host": "products:3066",
             "path": "/"
         },
         {
