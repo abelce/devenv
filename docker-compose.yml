@@ -126,7 +126,6 @@ services:
       - "./.runtime/comment/log:/var/log:z"
     environment:
       - ENV
-      
 
   commentdb:
     image: "registry.gitlab.com/zxtang_db/comment:1.0.0"
@@ -197,6 +196,16 @@ services:
     environment:
       - ENV
 
+  product:
+    image: "registry.gitlab.com/zxtang/product:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/product.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/product/log:/var/log:z"
+    environment:
+      - ENV
+
   productdb:
     image: "registry.gitlab.com/zxtang_db/product:1.0.0"
     restart: always
@@ -209,3 +218,13 @@ services:
       - POSTGRES_DB=productdb
     ports:
       - "65434:5432"
+  
+  productapi:
+    image: "registry.gitlab.com/zxtang/productapi:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/productapi.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/productapi/log:/var/log:z"
+    environment:
+      - ENV
