@@ -55,6 +55,18 @@
             "scheme": "http",
             "host": "comment:3064",
             "path": "/"
+        },
+        {
+            "key": "products",
+            "scheme": "http",
+            "host": "product:3066",
+            "path": "/"
+        },
+        {
+            "key": "productapi",
+            "scheme": "http",
+            "host": "productapi:3067",
+            "path": "/"
         }
     ],
     "noVerify": {
@@ -134,6 +146,18 @@
                 "get": {
                     "regs": [
                         "^\/v1\/like\/check\/[a-z0-9-]+$"
+                    ]
+                }
+            }
+        },
+        "productapi": {
+            "methods": {
+                "get": {
+                    "urls": [
+                        "/v1/productapi"
+                    ],
+                    "regs": [
+                        "^\/v1\/productapi\/[a-z0-9-]+$"
                     ]
                 }
             }
