@@ -1,4 +1,4 @@
 {
-    "port": 3066,
+    "port": 3067,
     "gatewayEndpoint": "http://api.vwood.xyz"
 }
