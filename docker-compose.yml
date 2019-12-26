@@ -196,13 +196,13 @@ services:
     environment:
       - ENV
 
-  product:
-    image: "registry.gitlab.com/zxtang/product:1.0.0"
+  products:
+    image: "registry.gitlab.com/zxtang/products:1.0.0"
     restart: always
     volumes:
-      - "./conf/product.json:/go/bin/config.json"
+      - "./conf/products.json:/go/bin/config.json"
       - "./ssl:/go/bin/ssl:z"
-      - "./.runtime/product/log:/var/log:z"
+      - "./.runtime/products/log:/var/log:z"
     environment:
       - ENV
 
