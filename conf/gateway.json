@@ -158,7 +158,7 @@
                     ],
                     "regs": [
                         "^\/v1\/productapi\/[a-z0-9-]+$",
-                        "^\/v1\/productapi\/name\/[a-z0-9-]+$"
+                        "^\/v1\/productapi\/name\/.*+$"
                     ]
                 }
             }
