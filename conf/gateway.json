@@ -57,6 +57,12 @@
             "path": "/"
         },
         {
+            "key": "email",
+            "scheme": "http",
+            "host": "email:3065",
+            "path": "/"
+        },
+        {
             "key": "products",
             "scheme": "http",
             "host": "product:3066",
