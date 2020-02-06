@@ -114,7 +114,8 @@
                     "urls": [
                         "/v1/comment",
                         "/v1/comment/list",
-                        "/v1/comment/list/client"
+                        "/v1/comment/list/client",
+                        "/v1/comment/count"
                     ]
                 }
             }
@@ -124,7 +125,8 @@
                 "get": {
                     "urls": [
                         "/v1/operators/info",
-                        "/v1/operators/github/callback"
+                        "/v1/operators/github/callback",
+                        "/v1/operators/count"
                     ]
                 }
             }
@@ -160,7 +162,8 @@
             "methods": {
                 "get": {
                     "urls": [
-                        "/v1/productapi"
+                        "/v1/productapi",
+                        "/v1/productapi/count"
                     ],
                     "regs": [
                         "^\/v1\/productapi\/[a-z0-9-]+$",
