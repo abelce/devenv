@@ -163,7 +163,8 @@
                 "get": {
                     "urls": [
                         "/v1/productapi",
-                        "/v1/productapi/count"
+                        "/v1/productapi/count",
+                        "/v1/productapi/check"
                     ],
                     "regs": [
                         "^\/v1\/productapi\/[a-z0-9-]+$",
