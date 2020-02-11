@@ -116,6 +116,9 @@
                         "/v1/comment/list",
                         "/v1/comment/list/client",
                         "/v1/comment/count"
+                    ],
+                    "regs": [
+                        "^\/v1\/comment\/count\/[a-z0-9-]+$"
                     ]
                 }
             }
