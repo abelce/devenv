@@ -133,6 +133,12 @@
                         "/v1/operators/check/name",
                         "/v1/operators/check/email"
                     ]
+                },
+                "post": {
+                    "urls": [
+                        "/v1/operators/check/name",
+                        "/v1/operators/check/email"
+                    ]
                 }
             }
         },
