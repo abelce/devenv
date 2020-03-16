@@ -73,6 +73,12 @@
             "scheme": "http",
             "host": "productapi:3067",
             "path": "/"
+        },
+        {
+            "key": "web",
+            "scheme": "http",
+            "host": "web:3068",
+            "path": "/"
         }
     ],
     "noVerify": {
@@ -184,6 +190,15 @@
                 "post": {
                     "urls": [
                         "/v1/productapi/check"
+                    ]
+                }
+            }
+        },
+        "web": {
+            "methods": {
+                "get": {
+                    "regs": [
+                        "^\/v1\/web\/[a-z0-9-]+$"
                     ]
                 }
             }

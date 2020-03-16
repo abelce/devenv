@@ -228,3 +228,26 @@ services:
       - "./.runtime/productapi/log:/var/log:z"
     environment:
       - ENV
+  
+  webdb:
+    image: "registry.gitlab.com/zxtang_db/web:1.0.0"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/webdb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=webdb
+    ports:
+      - "65435:5432"
+  
+  web:
+    image: "registry.gitlab.com/zxtang/web:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/web.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/web/log:/var/log:z"
+    environment:
+      - ENV
