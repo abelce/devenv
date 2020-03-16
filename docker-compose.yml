@@ -230,7 +230,7 @@ services:
       - ENV
   
   webdb:
-    image: "registry.gitlab.com/zxtang_db/web:1.0.0"
+    image: "registry.gitlab.com/zxtang_db/websites:1.0.0"
     restart: always
     volumes:
       # 数据目录挂载到宿主机
@@ -243,7 +243,7 @@ services:
       - "65435:5432"
   
   web:
-    image: "registry.gitlab.com/zxtang/web:1.0.0"
+    image: "registry.gitlab.com/zxtang/websites:1.0.0"
     restart: always
     volumes:
       - "./conf/web.json:/go/bin/config.json"
