@@ -197,6 +197,9 @@
         "web": {
             "methods": {
                 "get": {
+                    "urls": [
+                        "/v1/web"
+                    ],
                     "regs": [
                         "^\/v1\/web\/[a-z0-9-]+$"
                     ]
