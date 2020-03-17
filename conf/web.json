@@ -1,6 +1,6 @@
 {
     "port": 3068,
-    "sTypeTableName": "tbl_websites",
+    "websiteTableName": "tbl_websites",
     "db": {
         "driverName": "postgres",
         "dataSourceName": "host=148.70.144.210 port=65435 user=postgres password=123456 dbname=webdb sslmode=disable"
