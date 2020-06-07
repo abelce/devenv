@@ -117,28 +117,28 @@ services:
     environment:
       - ENV
 
-  comment:
-    image: "registry.gitlab.com/zxtang/comment:1.0.0"
-    restart: always
-    volumes:
-      - "./conf/comment.json:/go/bin/config.json"
-      - "./ssl:/go/bin/ssl:z"
-      - "./.runtime/comment/log:/var/log:z"
-    environment:
-      - ENV
+  # comment:
+  #   image: "registry.gitlab.com/zxtang/comment:1.0.0"
+  #   restart: always
+  #   volumes:
+  #     - "./conf/comment.json:/go/bin/config.json"
+  #     - "./ssl:/go/bin/ssl:z"
+  #     - "./.runtime/comment/log:/var/log:z"
+  #   environment:
+  #     - ENV
 
-  commentdb:
-    image: "registry.gitlab.com/zxtang_db/comment:1.0.0"
-    restart: always
-    volumes:
-      # 数据目录挂载到宿主机
-      - "./.runtime/commentdb/postgresql/data:/var/lib/postgresql/data"
-    env_file:
-      - runtime.env
-    environment:
-      - POSTGRES_DB=commentdb
-    ports:
-      - "55432:5432"
+  # commentdb:
+  #   image: "registry.gitlab.com/zxtang_db/comment:1.0.0"
+  #   restart: always
+  #   volumes:
+  #     # 数据目录挂载到宿主机
+  #     - "./.runtime/commentdb/postgresql/data:/var/lib/postgresql/data"
+  #   env_file:
+  #     - runtime.env
+  #   environment:
+  #     - POSTGRES_DB=commentdb
+  #   ports:
+  #     - "55432:5432"
 
   stypes:
     image: "registry.gitlab.com/zxtang/stypes:1.0.0"
@@ -163,28 +163,28 @@ services:
     ports:
       - "65432:5432"
 
-  souldb:
-    image: "registry.gitlab.com/zxtang_db/soul:1.0.0"
-    restart: always
-    volumes:
-      # 数据目录挂载到宿主机
-      - "./.runtime/souldb/postgresql/data:/var/lib/postgresql/data"
-    env_file:
-      - runtime.env
-    environment:
-      - POSTGRES_DB=souldb
-    ports:
-      - "65433:5432"
+  # souldb:
+  #   image: "registry.gitlab.com/zxtang_db/soul:1.0.0"
+  #   restart: always
+  #   volumes:
+  #     # 数据目录挂载到宿主机
+  #     - "./.runtime/souldb/postgresql/data:/var/lib/postgresql/data"
+  #   env_file:
+  #     - runtime.env
+  #   environment:
+  #     - POSTGRES_DB=souldb
+  #   ports:
+  #     - "65433:5432"
   
-  vwood:
-    image: "registry.gitlab.com/zxtang/vwood:1.0.0"
-    restart: always
-    volumes:
-      - "./.runtime/vwood/log:/var/log:z"
-    environment:
-      - ENV
-    ports:
-      - "3000:3000"
+  # vwood:
+  #   image: "registry.gitlab.com/zxtang/vwood:1.0.0"
+  #   restart: always
+  #   volumes:
+  #     - "./.runtime/vwood/log:/var/log:z"
+  #   environment:
+  #     - ENV
+  #   ports:
+  #     - "3000:3000"
   
   email:
     image: "registry.gitlab.com/zxtang/email:1.0.0"
@@ -196,58 +196,58 @@ services:
     environment:
       - ENV
 
-  product:
-    image: "registry.gitlab.com/zxtang/product:1.0.0"
-    restart: always
-    volumes:
-      - "./conf/product.json:/go/bin/config.json"
-      - "./ssl:/go/bin/ssl:z"
-      - "./.runtime/product/log:/var/log:z"
-    environment:
-      - ENV
+  # product:
+  #   image: "registry.gitlab.com/zxtang/product:1.0.0"
+  #   restart: always
+  #   volumes:
+  #     - "./conf/product.json:/go/bin/config.json"
+  #     - "./ssl:/go/bin/ssl:z"
+  #     - "./.runtime/product/log:/var/log:z"
+  #   environment:
+  #     - ENV
 
-  productdb:
-    image: "registry.gitlab.com/zxtang_db/product:1.0.0"
-    restart: always
-    volumes:
-      # 数据目录挂载到宿主机
-      - "./.runtime/productdb/postgresql/data:/var/lib/postgresql/data"
-    env_file:
-      - runtime.env
-    environment:
-      - POSTGRES_DB=productdb
-    ports:
-      - "65434:5432"
+  # productdb:
+  #   image: "registry.gitlab.com/zxtang_db/product:1.0.0"
+  #   restart: always
+  #   volumes:
+  #     # 数据目录挂载到宿主机
+  #     - "./.runtime/productdb/postgresql/data:/var/lib/postgresql/data"
+  #   env_file:
+  #     - runtime.env
+  #   environment:
+  #     - POSTGRES_DB=productdb
+  #   ports:
+  #     - "65434:5432"
   
-  productapi:
-    image: "registry.gitlab.com/zxtang/productapi:1.0.0"
-    restart: always
-    volumes:
-      - "./conf/productapi.json:/go/bin/config.json"
-      - "./ssl:/go/bin/ssl:z"
-      - "./.runtime/productapi/log:/var/log:z"
-    environment:
-      - ENV
+  # productapi:
+  #   image: "registry.gitlab.com/zxtang/productapi:1.0.0"
+  #   restart: always
+  #   volumes:
+  #     - "./conf/productapi.json:/go/bin/config.json"
+  #     - "./ssl:/go/bin/ssl:z"
+  #     - "./.runtime/productapi/log:/var/log:z"
+  #   environment:
+  #     - ENV
   
-  webdb:
-    image: "registry.gitlab.com/zxtang_db/websites:1.0.0"
-    restart: always
-    volumes:
-      # 数据目录挂载到宿主机
-      - "./.runtime/webdb/postgresql/data:/var/lib/postgresql/data"
-    env_file:
-      - runtime.env
-    environment:
-      - POSTGRES_DB=webdb
-    ports:
-      - "65435:5432"
+  # webdb:
+  #   image: "registry.gitlab.com/zxtang_db/websites:1.0.0"
+  #   restart: always
+  #   volumes:
+  #     # 数据目录挂载到宿主机
+  #     - "./.runtime/webdb/postgresql/data:/var/lib/postgresql/data"
+  #   env_file:
+  #     - runtime.env
+  #   environment:
+  #     - POSTGRES_DB=webdb
+  #   ports:
+  #     - "65435:5432"
   
-  web:
-    image: "registry.gitlab.com/zxtang/websites:1.0.0"
-    restart: always
-    volumes:
-      - "./conf/web.json:/go/bin/config.json"
-      - "./ssl:/go/bin/ssl:z"
-      - "./.runtime/web/log:/var/log:z"
-    environment:
-      - ENV
+  # web:
+  #   image: "registry.gitlab.com/zxtang/websites:1.0.0"
+  #   restart: always
+  #   volumes:
+  #     - "./conf/web.json:/go/bin/config.json"
+  #     - "./ssl:/go/bin/ssl:z"
+  #     - "./.runtime/web/log:/var/log:z"
+  #   environment:
+  #     - ENV
