@@ -106,16 +106,16 @@ services:
     ports:
       - "45432:5432"
 
-  file:
-    image: "abelce/file:1.0.0"
-    restart: always
-    volumes:
-      - "./conf/file.json:/go/bin/config.json"
-      - "./ssl:/go/bin/ssl:z"
-      - "./.runtime/file/log:/var/log:z"
-      - "/data/upload:/data/upload:z"
-    environment:
-      - ENV
+  # file:
+  #   image: "abelce/file:1.0.0"
+  #   restart: always
+  #   volumes:
+  #     - "./conf/file.json:/go/bin/config.json"
+  #     - "./ssl:/go/bin/ssl:z"
+  #     - "./.runtime/file/log:/var/log:z"
+  #     - "/data/upload:/data/upload:z"
+  #   environment:
+  #     - ENV
 
   comment:
     image: "abelce/comment:1.0.0"
