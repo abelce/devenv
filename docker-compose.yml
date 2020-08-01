@@ -2,7 +2,7 @@ version: '3'
 
 services:
   gateway:
-    image: "registry.gitlab.com/zxtang/gateway:1.0.0"
+    image: "abelce/gateway:1.0.0"
     restart: always
     volumes:
       - "./conf/gateway.json:/go/bin/config.json"
@@ -15,7 +15,7 @@ services:
       - ENV
 
   auth:
-    image: "registry.gitlab.com/zxtang/auth:1.0.0"
+    image: "abelce/auth:1.0.0"
     restart: always
     volumes:
       - "./conf/auth.json:/go/bin/config.json"
@@ -25,7 +25,7 @@ services:
       - ENV
 
   authdb:
-    image: "registry.gitlab.com/zxtang_db/auth:1.0.0"
+    image: "abelce/auth_db:1.0.0"
     restart: always
     volumes:
       # 数据目录挂载到宿主机
@@ -38,7 +38,7 @@ services:
       - "15432:5432"
 
   merchant:
-    image: "registry.gitlab.com/zxtang/merchant:1.0.0"
+    image: "abelce/merchant:1.0.0"
     restart: always
     volumes:
       - "./conf/merchant.json:/go/bin/config.json"
@@ -48,7 +48,7 @@ services:
       - ENV
 
   merchantdb:
-    image: "registry.gitlab.com/zxtang_db/merchant:1.0.0"
+    image: "abelce/merchant_db:1.0.0"
     restart: always
     volumes:
       # 数据目录挂载到宿主机
@@ -61,7 +61,7 @@ services:
       - "25432:5432"
 
   article:
-    image: "registry.gitlab.com/zxtang/article:1.0.0"
+    image: "abelce/article:1.0.0"
     restart: always
     volumes:
       - "./conf/article.json:/go/bin/config.json"
@@ -71,7 +71,7 @@ services:
       - ENV
 
   articledb:
-    image: "registry.gitlab.com/zxtang_db/article:1.0.0"
+    image: "abelce/article_db:1.0.0"
     restart: always
     volumes:
       # 数据目录挂载到宿主机
@@ -84,7 +84,7 @@ services:
       - "35432:5432"
 
   like:
-    image: "registry.gitlab.com/zxtang/like:1.0.0"
+    image: "abelce/like:1.0.0"
     restart: always
     volumes:
       - "./conf/like.json:/go/bin/config.json"
@@ -94,7 +94,7 @@ services:
       - ENV
     
   likedb:
-    image: "registry.gitlab.com/zxtang_db/like:1.0.0"
+    image: "abelce/like_db:1.0.0"
     restart: always
     volumes:
       # 数据目录挂载到宿主机
@@ -107,7 +107,7 @@ services:
       - "45432:5432"
 
   file:
-    image: "registry.gitlab.com/zxtang/file:1.0.0"
+    image: "abelce/file:1.0.0"
     restart: always
     volumes:
       - "./conf/file.json:/go/bin/config.json"
@@ -118,7 +118,7 @@ services:
       - ENV
 
   comment:
-    image: "registry.gitlab.com/zxtang/comment:1.0.0"
+    image: "abelce/comment:1.0.0"
     restart: always
     volumes:
       - "./conf/comment.json:/go/bin/config.json"
@@ -128,7 +128,7 @@ services:
       - ENV
 
   commentdb:
-    image: "registry.gitlab.com/zxtang_db/comment:1.0.0"
+    image: "abelce/comment_db:1.0.0"
     restart: always
     volumes:
       # 数据目录挂载到宿主机
@@ -141,7 +141,7 @@ services:
       - "55432:5432"
 
   stypes:
-    image: "registry.gitlab.com/zxtang/stypes:1.0.0"
+    image: "abelce/stypes:1.0.0"
     restart: always
     volumes:
       - "./conf/stypes.json:/go/bin/config.json"
@@ -151,7 +151,7 @@ services:
       - ENV
 
   stypesdb:
-    image: "registry.gitlab.com/zxtang_db/stypes:1.0.0"
+    image: "abelce/stypes_db:1.0.0"
     restart: always
     volumes:
       # 数据目录挂载到宿主机
@@ -177,7 +177,7 @@ services:
   #     - "65433:5432"
   
   # vwood:
-  #   image: "registry.gitlab.com/zxtang/vwood:1.0.0"
+  #   image: "abelce/vwood:1.0.0"
   #   restart: always
   #   volumes:
   #     - "./.runtime/vwood/log:/var/log:z"
@@ -187,7 +187,7 @@ services:
   #     - "3000:3000"
   
   email:
-    image: "registry.gitlab.com/zxtang/email:1.0.0"
+    image: "abelce/email:1.0.0"
     restart: always
     volumes:
       - "./conf/email.json:/go/bin/config.json"
@@ -197,7 +197,7 @@ services:
       - ENV
 
   product:
-    image: "registry.gitlab.com/zxtang/product:1.0.0"
+    image: "abelce/product:1.0.0"
     restart: always
     volumes:
       - "./conf/product.json:/go/bin/config.json"
@@ -207,7 +207,7 @@ services:
       - ENV
 
   productdb:
-    image: "registry.gitlab.com/zxtang_db/product:1.0.0"
+    image: "abelce/product_db:1.0.0"
     restart: always
     volumes:
       # 数据目录挂载到宿主机
@@ -220,7 +220,7 @@ services:
       - "65434:5432"
   
   productapi:
-    image: "registry.gitlab.com/zxtang/productapi:1.0.0"
+    image: "abelce/productapi:1.0.0"
     restart: always
     volumes:
       - "./conf/productapi.json:/go/bin/config.json"
@@ -230,7 +230,7 @@ services:
       - ENV
   
   # webdb:
-  #   image: "registry.gitlab.com/zxtang_db/websites:1.0.0"
+  #   image: "abelce/websites_db:1.0.0"
   #   restart: always
   #   volumes:
   #     # 数据目录挂载到宿主机
@@ -243,7 +243,7 @@ services:
   #     - "65435:5432"
   
   # web:
-  #   image: "registry.gitlab.com/zxtang/websites:1.0.0"
+  #   image: "abelce/websites:1.0.0"
   #   restart: always
   #   volumes:
   #     - "./conf/web.json:/go/bin/config.json"
