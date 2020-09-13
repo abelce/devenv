@@ -262,4 +262,4 @@ services:
     environment:
       - POSTGRES_DB=invoicedb
     ports:
-      - "65434:5432"
+      - "65436:5432"
