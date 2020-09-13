@@ -251,3 +251,15 @@ services:
   #     - "./.runtime/web/log:/var/log:z"
   #   environment:
   #     - ENV
+  invoicedb:
+    image: "abelce/invoice_db:1.0.0"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/invoicedb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=invoicedb
+    ports:
+      - "65434:5432"
