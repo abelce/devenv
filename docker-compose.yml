@@ -251,6 +251,16 @@ services:
   #     - "./.runtime/web/log:/var/log:z"
   #   environment:
   #     - ENV
+  invoice:
+    image: "abelce/invoice:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/invoice.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/invoice/log:/var/log:z"
+    environment:
+      - ENV
+
   invoicedb:
     image: "abelce/invoice_db:1.0.0"
     restart: always
@@ -263,3 +273,26 @@ services:
       - POSTGRES_DB=invoicedb
     ports:
       - "65436:5432"
+
+  entity:
+    image: "abelce/t-form:1.0.0"
+    restart: always
+    volumes:
+      - "./conf/entity.json:/go/bin/config.json"
+      - "./ssl:/go/bin/ssl:z"
+      - "./.runtime/entity/log:/var/log:z"
+    environment:
+      - ENV
+
+  entitydb:
+    image: "abelce/entity_db:1.0.0"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/entitydb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=entitydb
+    ports:
+      - "65437:5432"
