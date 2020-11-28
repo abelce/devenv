@@ -85,6 +85,12 @@
             "scheme": "http",
             "host": "entity:3069",
             "path": "/"
+        },
+        {
+            "key": "template",
+            "scheme": "http",
+            "host": "entity:3069",
+            "path": "/"
         }
     ],
     "noVerify": {
