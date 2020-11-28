@@ -1,6 +1,6 @@
 {
     "sslChainCrtPath": "/go/bin/ssl/chain.crt",
-    "sslKeyPath": "/go/bin/ssl/varitrip.key",
+    "sslKeyPath": "/go/bin/ssl/abelce.key",
     "apis": [
         {
             "key": "users",
