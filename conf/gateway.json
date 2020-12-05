@@ -91,6 +91,12 @@
             "scheme": "http",
             "host": "entity:3069",
             "path": "/"
+        },
+        {
+            "key": "constant",
+            "scheme": "http",
+            "host": "entity:3069",
+            "path": "/"
         }
     ],
     "noVerify": {
