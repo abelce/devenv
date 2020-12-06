@@ -97,6 +97,12 @@
             "scheme": "http",
             "host": "entity:3069",
             "path": "/"
+        },
+        {
+            "key": "enum",
+            "scheme": "http",
+            "host": "entity:3069",
+            "path": "/"
         }
     ],
     "noVerify": {

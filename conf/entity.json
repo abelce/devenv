@@ -3,6 +3,7 @@
     "entityTableName": "tbl_entity",
     "templateTableName": "tbl_template",
     "constantTableName": "tbl_constant",
+    "enumTableName": "tbl_enum",
     "db": {
         "driverName": "postgres",
         "dataSourceName": "host=148.70.144.210 port=65437 user=postgres password=123456 dbname=entitydb sslmode=disable"
