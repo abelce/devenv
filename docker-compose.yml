@@ -178,6 +178,7 @@ services:
   
   vwood:
     image: "abelce/vwood:1.0.0"
+    daemon: off
     restart: always
     volumes:
       - "./.runtime/vwood/log:/var/log:z"
