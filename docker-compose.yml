@@ -178,7 +178,7 @@ services:
   
   vwood:
     image: "abelce/vwood:1.0.0"
-    command: npm run serve "daemon off;"
+    tty: true
     restart: always
     volumes:
       - "./.runtime/vwood/log:/var/log:z"
