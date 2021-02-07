@@ -176,16 +176,16 @@ services:
   #   ports:
   #     - "65433:5432"
   
-  vwood:
-    image: "abelce/vwood:1.0.0"
-    tty: true
-    restart: always
-    volumes:
-      - "./.runtime/vwood/log:/var/log:z"
-    environment:
-      - ENV
-    ports:
-      - "3000:3000"
+  # vwood:
+  #   image: "abelce/vwood:1.0.0"
+  #   tty: true
+  #   restart: always
+  #   volumes:
+  #     - "./.runtime/vwood/log:/var/log:z"
+  #   environment:
+  #     - ENV
+  #   ports:
+  #     - "3000:3000"
   
   email:
     image: "abelce/email:1.0.0"
