@@ -207,18 +207,18 @@ services:
   #   environment:
   #     - ENV
 
-  # productdb:
-  #   image: "abelce/product_db:1.0.0"
-  #   restart: always
-  #   volumes:
-  #     # 数据目录挂载到宿主机
-  #     - "./.runtime/productdb/postgresql/data:/var/lib/postgresql/data"
-  #   env_file:
-  #     - runtime.env
-  #   environment:
-  #     - POSTGRES_DB=productdb
-  #   ports:
-  #     - "65434:5432"
+  productdb:
+    image: "abelce/product_db:1.0.0"
+    restart: always
+    volumes:
+      # 数据目录挂载到宿主机
+      - "./.runtime/productdb/postgresql/data:/var/lib/postgresql/data"
+    env_file:
+      - runtime.env
+    environment:
+      - POSTGRES_DB=productdb
+    ports:
+      - "65434:5432"
   
   # productapi:
   #   image: "abelce/productapi:1.0.0"
